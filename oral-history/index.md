@@ -1,6 +1,6 @@
-# Your Title should go in the appropriate place in `index.html`, not here! Title is itself set only in the `<head>` element
+<h1>The Liberation of the Bergen-Belsen Concentration Camp</h1> 
 
-## Use headings only if you want to have subsections in your essay
+<img src="https://www.mvmnt.it/wp-content/gallery/bergen-belsen/IMG_7857-Bergen%20Belsen.jpg"/>
 
 <div class="sidepanel">
               <!-- This is the div where all the popcorn action will hapen -->
@@ -8,26 +8,17 @@
               </div>
             </div>
 
+Concentration camps were created during the second world war by the <strong>National Socialist Party</strong> (Nazi) in Germany. Dachau was the first concentration camp to be established in Upper Bavaria, Germany in 1933. This was the first of many camps to be built across Germany, Austria and Poland, which heightened during the second world war when the Nazi party was led by Adolf Hitler. Germany military authorities established the Bergen-Belsen concentration camp in 1940, which was located between the two small towns in Germany called Bergen and Belsen, which was about 11 miles north of Celle, Germany[^first]. Initially, this camp began as an exclusively prisoners-of-war (POW) camp, but eventually began to transition into a civilian residence camp and finally a concentration camp. Due to the size of the camp, there were various prisoners held there, including Jews, POWs, political prisoners, Roma (also known as Gypsies), Jehovah’s Witnesses and homosexuals. The situation in the camp were extremely dire, like many of the other camps, however Bergen-Belsen was not entirely subjected to being an extermination camp due to the way the camp was built. This is not to say that thousands of people didn’t die from disease, overcrowding and famine, in fact from February 1945 to April 1945, there was an increase of approximately 38,000 people[^second]. This led to shortages of food and fresh water supply, which in turn led to many deaths.
+
+On April 15th 1945, The 63rd Anti-tank Regiment and the 11th Armoured Division of the British army liberated about 60,000 prisoners at Bergen-Belsen[^third].  Upon entering the camp by the 11th Armoured Division which was part of an April 12th agreement that assured the Germans retreating peacefully, the British soldiers were extremely shocked to find the situation at the camp. Not only were the prisoners extremely ill, almost dying of starvation, but they also witnessed more than 13,000 rotting corpses spread across the camp[^fourth]. They came to the sudden realisation that medical attention was the most important thing that needed to be addressed at that specific time. In fact, the discovery of the Bergen-Belsen camp and the horrendous conditions there made on powerful impact on public opinion in Great Britain and elsewhere. The audio clip above is just a snippet of what was witnessed when entering the camp, which became part of a radio report on the liberation of the death camp that was filed  by Patrick Gordon Walker who was working for the BBC news station. Almost half of the prisoners held at Bergen-Belsen were Jewish and the day which Patrick Walker entered the concentration camp was the fifth day of Liberation which fell on Friday, the day before Sabbath, an important part of the <a href="#" onclick="javascript:seek(22)">Jewish religion</a>. Sabbath is the day of the rest in the Jewish religion, that is typically observed from sundown on Friday until the appearance of three stars in the sky on Saturday night[^fifth]. For many of the prisoners at Bergen-Belsen,  it was the first service that they had been a part of for the last six years and might have been the first Jewish service held on Germany soil without the fear of the <a href="#" onclick="javascript:seek(48)">Nazi Army</a>. This highlights the oppression that was faced by the Jews throughout their time at Bergen-Belsen and the lengths that the Nazi’s went to in terms of diminishing the Jewish religion.
+
+Patrick Walker describes the mixed emotions of what the 200 Jews who took part in the service were going through, some experiencing the pain and sorrow of their lost families, whilst others were crying in happiness of being liberated and regaining their <a href="#" onclick="javascript:seek(84)">freedom</a>. This critical moment portrays the atrocities and traumatization that these people went through, many losing their families with the inability to return back to their normative day-to-day lives. The Jews that took part in the ceremony had an understanding that they were being recorded and made an effort to make their voices heard after the sufferings they experienced. After liberation, British occupation authorities established a displaced persons camp that housed more than 12,000 survivors. It was located in a German military school barracks near the original concentration camp site, and functioned until 1951[^sixth]. Bergen-Belsen concentration camp was one of the few camps that was lucky enough to be liberated peacefully, which shows the extremity of what took place pre-second world war all the way until the surrender of German in 1945.  Post liberation, in the autumn of 1945 a British Military Tribunal in Lüneburg tried "48 members of the Bergen-Belsen staff, including 37 SS personnel and eleven prisoner functionaries. The tribunal sentenced eleven of the defendants to death, including camp commandant Josef Kramer"[^seventh]. Nineteen other defendants were convicted and sentenced to prison terms; the tribunal acquitted fourteen. On December 12, 1945, British military authorities executed Kramer and his co-defendants. By holding SS officers accountable allows a little bit of closure for the victims, but the holocaust should and will never be forgotten in as an important reminder to the 6 million fallen.
 
 
-Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced features of markdown:
-- you can embed HTML directly n a markdown file. This is great if you want to add complex attributes like **classes**, e.g. to your `img` tags so that they display properly.
-  - another use of embedded HTML is for funky javascript function links. I've written a simple function that will seek to a particular time code in seconds.  You can call it like this: `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole linke in, as seen here: <a href="#" onclick="javascript:seek(75)"> seek to 1:15</a>.
-  - also, Remarkable supports pandoc-style footnotes, which can be helpful sometimes. Here are some examples of footnotes at work:
-
-    Footnote 1 link[^first].
-
-    Footnote 2 link[^second].
-
-    Inline footnote^[Text of inline footnote] definition.
-
-    Duplicated footnote reference[^second].
-
-you can learn more about remarkable on [its github page](https://github.com/jonschlinkert/remarkable), and get a fuller sense of the syntax [in the online demo](https://jonschlinkert.github.io/remarkable/demo/)
-
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
+[^first]:Christopher Dillon, [Concentration camps: a short history](https://academic-oup-com.myaccess.library.utoronto.ca/ia/article/94/2/428/4925115)
+[^second]:Mark Celinscak, [Distance from the Belsen Heap: Allied Forces and the Liberation of a Nazi Concentration Camp](http://muse.jhu.edu.myaccess.library.utoronto.ca/article/645966)
+[^third]:[Timeline of Events](https://www.ushmm.org/learn/timeline-of-events/1942-1945/liberation-of-bergen-belsen)
+[^fourth]:[Timeline of Events](https://www.ushmm.org/learn/timeline-of-events/1942-1945/liberation-of-bergen-belsen)
+[^fifth]:Seymour Siegel, [The Sabbath and Conservative Judaism](https://search-proquest-com.myaccess.library.utoronto.ca/docview/1304347074?OpenUrlRefId=info:xri/sid:summon&accountid=14771)
+[^sixth]:[Holocaust Encyclopedia, Bergen-Belsen](https://www.ushmm.org/wlc/en/article.php?ModuleId=10005224)
+[^seventh]:[Holocaust Encyclopedia, Bergen-Belsen](https://www.ushmm.org/wlc/en/article.php?ModuleId=10005224)
